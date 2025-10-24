@@ -90,6 +90,14 @@ binwalk suspicious.jpg
 binwalk /home/kali/Downloads/wallpaper.jpg
 ```
 
+### OUTPUT
+
+<img width="960" height="1029" alt="image" src="https://github.com/user-attachments/assets/2db132c3-0978-4aa7-b3d2-296fe9c2a2f0" />
+
+![WhatsApp Image 2025-10-24 at 20 21 57_04101a67](https://github.com/user-attachments/assets/3a79aee2-bf86-4123-b160-c38cfe8a034c)
+
+
+
 
 ## RESULT:
 Metadata was successfully extracted, timeline analysis was completed, and hidden data was identified using steganography tools.
